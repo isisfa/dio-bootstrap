@@ -1,0 +1,41 @@
+:root {
+    font: 16px sans-serif,Arial;
+}
+
+nav a {
+    color: #fff;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+img {
+    margin: 15px;
+}
+
+p {
+    margin: 10px;
+}
+.navbar {
+    background-color: #3B300A; 
+}
+
+#contact {
+    background-color:#FFCA0C;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#services {
+    background-color: #c9a00d;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+}
